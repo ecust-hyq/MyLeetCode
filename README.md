@@ -1,3 +1,2 @@
-# LeetCode刷题笔记
-## easy
-### 
+# LeetCode刷题笔记  
+## Easy  
